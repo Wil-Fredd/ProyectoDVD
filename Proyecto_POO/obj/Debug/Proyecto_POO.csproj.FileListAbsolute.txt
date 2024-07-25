@@ -1,0 +1,84 @@
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.exe.config
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.exe
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.pdb
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csprojResolveAssemblyReference.cache
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.MainForm.resources
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csproj.GenerateResource.Cache
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.exe
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.pdb
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmDVD.resources
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmClientes.resources
+C:\Users\Usuario\Desktop\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmClientes.resources
+C:\Users\Usuario\Desktop\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmDVD.resources
+C:\Users\Usuario\Desktop\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.MainForm.resources
+C:\Users\Usuario\Desktop\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.exe
+C:\Users\Usuario\Desktop\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.exe.config
+C:\Users\Usuario\Desktop\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.exe
+C:\Users\Usuario\Desktop\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.pdb
+C:\Users\Usuario\Desktop\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.pdb
+C:\Users\Hidalmy\Desktop\Respaldo_POO\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.exe.config
+C:\Users\Hidalmy\Desktop\Respaldo_POO\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.exe
+C:\Users\Hidalmy\Desktop\Respaldo_POO\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.pdb
+C:\Users\Hidalmy\Desktop\Respaldo_POO\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csprojResolveAssemblyReference.cache
+C:\Users\Hidalmy\Desktop\Respaldo_POO\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmClientes.resources
+C:\Users\Hidalmy\Desktop\Respaldo_POO\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmDVD.resources
+C:\Users\Hidalmy\Desktop\Respaldo_POO\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.MainForm.resources
+C:\Users\Hidalmy\Desktop\Respaldo_POO\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csproj.GenerateResource.Cache
+C:\Users\Hidalmy\Desktop\Respaldo_POO\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.exe
+C:\Users\Hidalmy\Desktop\Respaldo_POO\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.pdb
+C:\Users\Hidalmy\Desktop\Respaldo_POO\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmPrestamos.resources
+C:\Users\Hidalmy\Desktop\Respaldo_POO\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmIngresos.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.exe.config
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.exe
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.pdb
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmClientes.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmDVD.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmIngresos.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmPrestamos.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.MainForm.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csproj.GenerateResource.Cache
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.exe
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.pdb
+C:\Users\gabri\OneDrive\Escritorio\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmTablaRegistro.resources
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.exe.config
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.exe
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.pdb
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csprojResolveAssemblyReference.cache
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmClientes.resources
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmDVD.resources
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmIngresos.resources
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmPrestamos.resources
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.MainForm.resources
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmTablaRegistro.resources
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csproj.GenerateResource.Cache
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.exe
+C:\Users\Hidalmy\Desktop\ProyectoWilfred\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.pdb
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.exe.config
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.exe
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\bin\Debug\Proyecto_POO.pdb
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmClientes.resources
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmDVD.resources
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmIngresos.resources
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmPrestamos.resources
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.MainForm.resources
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmTablaRegistro.resources
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csproj.GenerateResource.Cache
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.exe
+C:\Users\gabri\OneDrive\Escritorio\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.pdb
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csprojResolveAssemblyReference.cache
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmClientes.resources
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmDVD.resources
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmIngresos.resources
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmPrestamos.resources
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.MainForm.resources
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.Forms.FrmTablaRegistro.resources
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\Proyecto_POO.csproj.GenerateResource.Cache
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\bin\Debug\UltraDVD.exe.config
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\bin\Debug\UltraDVD.exe
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\bin\Debug\UltraDVD.pdb
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\UltraDVD.exe
+C:\Users\Hidalmy\Desktop\Wilfred&Gabo\Proyecto\Proyecto_POO\obj\Debug\UltraDVD.pdb
